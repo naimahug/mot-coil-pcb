@@ -1,3 +1,0 @@
-(fp_lib_table
- (lib (name "POSM")(type "KiCad")(uri "${KIPRJMOD}/../POSM.pretty")(options "")(descr "Included wire terminal footprint"))
-)

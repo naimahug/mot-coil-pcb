@@ -1,6 +1,0 @@
-numpy
-scipy
-matplotlib
-sexpdata
-numba
-magpylib>=5,<6
