@@ -1,0 +1,9 @@
+layer,copper_midplane_z_mm,copper_thickness_mm,purpose
+F.Cu,0.0,0.07,winding pair
+In1.Cu,-0.2757142857142857,0.07,winding pair
+In2.Cu,-0.5514285714285714,0.07,winding pair
+In3.Cu,-0.8271428571428572,0.07,winding pair
+In4.Cu,-1.1028571428571428,0.07,winding pair
+In5.Cu,-1.3785714285714286,0.07,winding pair
+In6.Cu,-1.6542857142857144,0.07,winding pair
+B.Cu,-1.93,0.07,series routing

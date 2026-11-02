@@ -1,0 +1,10 @@
+** Drc report for /workspace/scratch/207d18815f51/mot_dense_family/DENSE_10mm_8Cu_7WINDING_LAYERS/DENSE_10mm_8Cu_7WINDING_LAYERS.kicad_pcb **
+** Created on 2026-10-17 01:29:57 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

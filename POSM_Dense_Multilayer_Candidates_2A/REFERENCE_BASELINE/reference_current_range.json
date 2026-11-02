@@ -1,0 +1,8 @@
+{
+  "note": "Calculated range only; baseline has not been thermally qualified at 2 A.",
+  "gradient_per_A_G_per_cm": 10.084017303939243,
+  "I10_A": 0.9916682705506245,
+  "I20_A": 1.983336541101249,
+  "P10_20C_W": 1.733773651343912,
+  "P20_20C_W": 6.935094605375648
+}
